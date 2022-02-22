@@ -17,3 +17,9 @@ https://discourse.gohugo.io/t/suppress-username-footer-in-academic-theme/16086
 
 Changing themes
 https://rstudio-pubs-static.s3.amazonaws.com/495947_8a997f234d804fd9b88887812450db60.html
+
+
+
+
+https://www.andreashandel.com/posts/blogdown-website-1/
+https://www.andreashandel.com/posts/blogdown-website-2/
