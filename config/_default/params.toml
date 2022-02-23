@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "fiona.h.evans@gmail.com"
+email = "fiona.evans@lovelaceanalytics.com.au"
 #phone = "+61 422 548 532"
 
 # Address

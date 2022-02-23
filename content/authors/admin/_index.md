@@ -25,7 +25,7 @@ role: Principal
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto://fiona.h.evans@gmail.com
+  link: mailto://fiona.evans@lovelaceanalytics.com.au
 - icon: github
   icon_pack: fab
   link: https://github.com/fionahevans
@@ -46,7 +46,9 @@ user_groups:
 
 I am a research scientist with extensive and specialised mathematical and statistical knowledge and skills. I am highly experienced in sourcing, managing, analysing and modelling data from multiple sources, including remotely sensed, spatial and time-series data. I am particularly adept at developing new approaches that combine statistical and process models with machine learning to solve complex problems, predict outcomes and support business decision-making.
 
+<!--
 To date, my career has primarily focused on enhancing the assessment, monitoring and productivity of Australia’s environmental and agricultural resources. With 15 years of recent experience applying analytics to support agriculture, I have an excellent understanding of issues faced by Australian grain growers and experience in delivering results to support the grains industry. I have worked with farmers, grower groups, State government and academia to develop methods for using data collected on and off farms to improve farm business profit and sustainability. 
+-->
 
 
  
