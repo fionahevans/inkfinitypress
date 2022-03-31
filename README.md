@@ -1,4 +1,4 @@
 web:  Lovelace Analytics web site
 ====================================================
 
-Last updated 2022-02-22
+Last updated 2022-03-31
