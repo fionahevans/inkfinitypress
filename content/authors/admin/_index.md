@@ -23,9 +23,9 @@ email: "fiona.h.evans@gmail.com"
 # - Algorithm development, programming & integration
 role: Principal
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto://fiona.evans@lovelaceanalytics.com.au
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto://fiona.evans@lovelaceanalytics.com.au
 - icon: github
   icon_pack: fab
   link: https://github.com/fionahevans

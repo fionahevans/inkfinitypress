@@ -22,3 +22,7 @@ email_form = 0
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
+If you are looking for statistical consulting in Perth, please contact 
+<a href = "https://www.daa.com.au/"> Data Analysis Australia</a> and say that Fiona
+referred you. 
+
