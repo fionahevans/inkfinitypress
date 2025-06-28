@@ -1,4 +1,4 @@
-web:  Lovelace Analytics web site
+web:  Inkfinity Press web site
 ====================================================
 
-Last updated 2022-03-31
+Original version 2025-06-28

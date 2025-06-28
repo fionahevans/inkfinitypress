@@ -68,6 +68,16 @@
   background-attachment: fixed;
 }
 
+/* added 29/1/2025 https://discourse.gohugo.io/t/why-does-image-not-appear-in-mobile-hugo-academic/20846/5 */
+@media (hover: none) {
+	.parallax {
+	  height: auto;
+	  background-attachment: scroll;
+	  background-size: cover;
+	  background-repeat: repeat;
+	}
+}
+
 .home-section:first-of-type {
   padding-top: 50px;
 }

@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Lovelace Analytics"
+org_name = "Inkfinity Press"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -75,7 +75,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/fionahevans/blog", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
+#edit_page = {repo_url = "https://github.com/fionahevans/blog", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-#email = "fiona.evans@lovelaceanalytics.com.au"
+#email = "info@infinitypress.com.au"
 #phone = "+61 422 548 532"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-# address = {street = "90 South St", city = "Murdoch", region = "WA", postcode = "6050", country = "Australia", country_code = "AUS"}
+ address = {street = "18 Gilbert Street", city = "Bayswater", region = "WA", postcode = "6053", country = "Australia", country_code = "AU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -124,7 +124,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = "binary-g6717d5957_1920_bw.jpg"
+sharing_image = "inkfinitypress_logo_20x20.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 #twitter = "bigagdata"

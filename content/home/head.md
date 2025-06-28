@@ -4,64 +4,55 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = true
+thumbnail = "Inkfinity_Press_Logo_1024x1024.jpg"
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-height = "300px"
-
-title = ""
-subtitle = ""
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-
+# I cannot get this to resize responsively! 
 [design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  color = "white"
+  image = "Inkfinity_Press_Logo_1024x1024.jpg"  # Name of image in `static/media/`
+  image_size = "cover" # contain, cover or actual
+  image_parallax = true # responsive 
+  image_position = "center"
+  color = "white" # Background color.
   
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  image = "binary-g6717d5957_1920_bw.jpg"  # Name of image in `static/media/`.
-  # image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
-
-  # Text color (true=light or false=dark).
-  text_color_light = true
-
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  #padding = ["20px", "0", "20px", "0"]
   padding = ["0", "0", "0", "0"]
-
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+  margin = ["0", "0", "0", "0"] 
+  
 +++
 
+<!-- 
 
-&nbsp;<br/><br/>
-&nbsp;<br/><br/>
-&nbsp;<br/><br/>
-&nbsp;<br/><br/>
-&nbsp;<br/><br/>
-&nbsp;<br/><br/>
+Image in static (used to set the size of the widget).
+I tried to get this to cover the entire width of the screen but 
+haven't been able to work it out. It sits in the widget and the 
+widget has a margin
+
+-->
 
 
+<!-- 
+{{< figure src="wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg" 
+           alt="Typewriter showing text: the best way is to start">}}
+
+{{< figure src="wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg" 
+           alt="Typewriter showing text: the best way is to start">}}
+
+![](/media/img/wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg){width = "100%"}
+-->
+
+<center>
+<img src = "Inkfinity_Press_Logo_1024x1024.jpg"
+     alt = "Inkfinity Press logo"
+     style = "width: 100%; max-width: 100%; opacity: 0;">
+</center>
+
+<!--
+&nbsp;<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+-->
 
 
 

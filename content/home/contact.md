@@ -15,14 +15,11 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 0
-
+email_form = 1
 # Netlify form settings.
 [netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
-If you are looking for statistical consulting in Perth, I recommend
-<a href = "https://www.daa.com.au/"> Data Analysis Australia</a>. You may request 
-my services as a subcontractor; they will contact me. 
+
 
