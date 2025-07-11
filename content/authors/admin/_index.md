@@ -1,7 +1,7 @@
 ---
 authors:
-- admin
-bio: Mathematician and writer. Find me on X @FionaHEvans or Bluesky @fionahevans.bsky.social.
+- 
+bio: ""
 email: "fiona.h.evans@gmail.com"
 superuser: true
 title: 

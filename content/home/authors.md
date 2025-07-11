@@ -15,4 +15,4 @@ author = "admin"
 
 ## Fiona H Evans
 
-Fiona is an emerging writer who specialises in writing microfiction, flash fiction, haiku and poetry. 'The Track' will be her first novel. Read her work at  <a href="https://www.fionahevans.com"> https://www.fionahevans.com</a>
+Fiona is an emerging writer who specialises in writing microfiction, flash fiction, haiku and poetry. 'The Track' will be her first novel. Read her other work at  <a href="https://www.fionahevans.com"> www.fionahevans.com</a>
