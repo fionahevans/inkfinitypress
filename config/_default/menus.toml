@@ -35,12 +35,12 @@
 #  weight = 30
 
 [[main]]
-  name = "Upcoming Publications"
+  name = "Publications"
   url = "#portfolio"
   weight = 40
   
 [[main]]
-  name = "Our Authors"
+  name = "Authors"
   url = "#authors"
   weight = 50
 

@@ -14,7 +14,6 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 theme = "fhe_minimal"
-
 # Enable users to switch between day and night mode?
 day_night = true
 

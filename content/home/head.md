@@ -19,7 +19,7 @@ weight = 1  # Order that this section will appear.
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20", "20", "20", "20"]
+  padding = ["0", "0", "0", "0"]
   margin = ["0", "0", "0", "0"] 
   
 +++

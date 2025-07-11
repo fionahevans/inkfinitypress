@@ -1,78 +1,30 @@
 +++
-# A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+# About widget.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 5  # Order that this section will appear in.
 
-title = ""
+title = "Publications"
 subtitle = ""
-
-[content]
-  # Page type to display. E.g. project.
-  page_type = "portfolio"
-  
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-  
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  # 
-  #[[content.filter_button]]
-  #  name = "All"
-  #  tag = "*"
-  # 
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  # 
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view = 2
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-  
-  # Background color.
-  # color = "black"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = false  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
 +++
 
-# Upcoming Publications
+
+## The Track
+
+<table>
+<tr>
+<td> <img src = "cover.jpg"
+     alt = "Cover of The Track by Fiona H Evans">
+</td>
+<td>
+
+<i>What would you do if your perfect life collapsed?</i>
+
+
+Lee’s boyfriend dumps her and her new boss makes her life miserable, so she quits. Desperate to find a new purpose in life, she decides to hike the Bibbulmun Track, a thousand kilometre walking trail through the south-west of Western Australia. Her brand-new boots carry her along a wind-swept coastline and through ancient forests, but ultimately Lee is on a journey to self-discovery. 
+
+Due for publication in late 2025, The Track by Fiona H Evans is a story about how nature and human connection help a young woman find her path. Set along the Bibbulmun Track in the south-west of Western Australia, it pays tribute to the changing beauty of the landscape, its flora and fauna, the diverse characters who live in and visit the area and the language, culture and history of the Noongar Whadjuk people who are the traditional custodians of this country.
+
+</td>
+</table>
