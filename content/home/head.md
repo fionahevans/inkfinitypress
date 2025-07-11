@@ -33,7 +33,6 @@ widget has a margin
 
 -->
 
-
 <!-- 
 {{< figure src="wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg" 
            alt="Typewriter showing text: the best way is to start">}}
@@ -43,12 +42,14 @@ widget has a margin
 
 ![](/media/img/wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg){width = "100%"}
 -->
-
+<!-
 <center>
 <img src = "Inkfinity_Press_Logo_1024x1024.jpg"
+-<img src = "binary-g6717d5957_1920_bw"
      alt = "Inkfinity Press logo"
      style = "width: 100%; max-width: 100%; opacity: 0;">
 </center>
+-->
 
 <!--
 &nbsp;<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
