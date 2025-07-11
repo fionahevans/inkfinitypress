@@ -45,7 +45,6 @@ widget has a margin
 
 <center>
 <img src = "Inkfinity_Press_Logo_1024x1024.jpg"
-
      alt = "Inkfinity Press logo"
      style = "width: 100%; max-width: 100%; opacity: 0;">
 </center>
