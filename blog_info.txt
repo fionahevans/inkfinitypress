@@ -18,12 +18,16 @@ https://discourse.gohugo.io/t/suppress-username-footer-in-academic-theme/16086
 Changing themes
 https://rstudio-pubs-static.s3.amazonaws.com/495947_8a997f234d804fd9b88887812450db60.html
 
-
-
-
+git config --get remote.origin.url
 https://www.andreashandel.com/posts/blogdown-website-1/
 https://www.andreashandel.com/posts/blogdown-website-2/
 
+# Netlify Name Servers
+https://docs.netlify.com/domains/set-up-netlify-dns/
+https://www.crazydomains.com.au/help/article/how-to-add-delete-change-your-name-servers
+
+
+# Netlify git
 
 git add .
 git commit -m "message"
