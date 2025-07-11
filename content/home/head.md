@@ -5,21 +5,21 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true
-thumbnail = "Inkfinity_Press_Logo_1024x1024.jpg"
+thumbnail = "inkfinitypress2.jpg"
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # I cannot get this to resize responsively! 
 [design.background]
-  image = "Inkfinity_Press_Logo_1024x1024.jpg"  # Name of image in `static/media/`
+  image = "inkfinitypress2.jpg"  # Name of image in `static/media/`
   image_size = "cover" # contain, cover or actual
-  image_parallax = true # responsive 
+  image_parallax = false # responsive 
   image_position = "center"
   color = "white" # Background color.
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "0", "0", "0"]
+  padding = ["20", "20", "20", "20"]
   margin = ["0", "0", "0", "0"] 
   
 +++
@@ -44,7 +44,7 @@ widget has a margin
 -->
 
 <center>
-<img src = "Inkfinity_Press_Logo_1024x1024.jpg"
+<img src = "inkfinitypress2.jpg"
      alt = "Inkfinity Press logo"
      style = "width: 100%; max-width: 100%; opacity: 0;">
 </center>
