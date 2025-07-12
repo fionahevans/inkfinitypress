@@ -11,6 +11,8 @@ subtitle = ""
 # Automatically link email and phone?
 autolink = true
 
+[content] 
+  email = "fiona.h.evans@gmail.com"
 
 
 # Email form provider
