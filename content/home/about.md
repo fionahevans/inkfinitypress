@@ -9,4 +9,6 @@ title = "About"
 subtitle = ""
 +++
 
-Inkfinity Press is a boutique publishing house located in Perth, Western Australia. We specialise in publishing local authors. 
+Inkfinity Press is a boutique publishing house located in Perth, Western Australia. We acknowledge and pay respects to the traditional custodians of this country, the <i>Whadjuk</i> people of the <i>Noongar</i> nation. 
+
+We specialise in publishing local authors. 
