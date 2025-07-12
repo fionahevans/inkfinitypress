@@ -10,12 +10,17 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # I cannot get this to resize responsively! 
+# [design.background]
+#   image = "Inkfinity_Press_Logo_1024x1024_f7f7f7.jpg"  # Name of image in `static/media/`
+#   image_size = "containr" # contain, cover or actual
+#   image_parallax = true # responsive 
+#   image_position = "centre"
+#   color = "white" # Background color.
+
 [design.background]
-  image = "inkfinitypress2.jpg"  # Name of image in `static/media/`
-  image_size = "cover" # contain, cover or actual
-  image_parallax = false # responsive 
-  image_position = "center"
-  color = "white" # Background color.
+   image_size = "cover" # contain, cover or actual
+   image_parallax = true # responsive 
+
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -43,10 +48,11 @@ widget has a margin
 ![](/media/img/wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg){width = "100%"}
 -->
 
+
 <center>
-<img src = "inkfinitypress2.jpg"
+<img src = "Inkfinity_Press_Logo_1024x1024_f7f7f7.jpg"
      alt = "Inkfinity Press logo"
-     style = "width: 100%; max-width: 100%; opacity: 0;">
+     style = "width: 60%; max-width: 60%; opacity: 100;">
 </center>
 
 
