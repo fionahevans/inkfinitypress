@@ -15,10 +15,11 @@ options(blogdown.author = 'Fiona H Evans')
 Suppress username footer in academic theme
 https://discourse.gohugo.io/t/suppress-username-footer-in-academic-theme/16086
 
+
 Changing themes
 https://rstudio-pubs-static.s3.amazonaws.com/495947_8a997f234d804fd9b88887812450db60.html
 
-git config --get remote.origin.url
+git config --get remote.origin.url256
 https://www.andreashandel.com/posts/blogdown-website-1/
 https://www.andreashandel.com/posts/blogdown-website-2/
 
@@ -28,6 +29,10 @@ https://www.crazydomains.com.au/help/article/how-to-add-delete-change-your-name-
 
 
 # Netlify git
+
+
+Edit C:\Users\fiona\Documents\Writing\Inkfinity Press\www\themes\hugo-academic\layouts\partials:
+  page_footer.html to remove social media share options and author in page footer
 
 git add .
 git commit -m "message"

@@ -9,10 +9,7 @@ title = "Contact"
 subtitle = ""
 
 # Automatically link email and phone?
-autolink = true
-
-[content] 
-  email = "fiona.h.evans@gmail.com"
+autolink = false
 
 
 # Email form provider
@@ -25,9 +22,12 @@ email_form = 1
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
+<!--
 ## Mail
 
 18 Gilbert Street, Bayswater, WA 6053 Australia
 
 ## Email
+
+-->
 
