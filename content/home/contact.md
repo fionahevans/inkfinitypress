@@ -11,6 +11,9 @@ subtitle = ""
 # Automatically link email and phone?
 autolink = false
 
+#[content] 
+#  email = "fiona.h.evans@gmail.com"
+
 
 # Email form provider
 #   0: Disable email form
@@ -23,6 +26,7 @@ email_form = 1
 +++
 
 <!--
+
 ## Mail
 
 18 Gilbert Street, Bayswater, WA 6053 Australia
