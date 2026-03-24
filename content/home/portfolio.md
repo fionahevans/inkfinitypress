@@ -37,10 +37,10 @@ fauna, the diverse characters who live in and visit the area, and the
 language, culture and history of the <i>Noongar</i> people who are the 
 traditional custodians of this country.
 
-<b>Buy the e-book now on Amazon:</b> 
+<b>Buy now on Amazon:</b> 
 https://www.amazon.com.au/dp/B0GC2GGSF3/ref=sr_1_8.
 
-<b>Or ask your local bookstore to pre-order the paperback:</b>
+<b>Or ask your local bookstore to order the paperback:</b>
 <table style="text-indent: 1cm; padding: 0px;">
 <tr>
 <td style=" padding: 0px;"> Title: </td> <td style=" padding: 0px;"> The Track </td>
