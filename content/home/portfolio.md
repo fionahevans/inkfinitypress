@@ -61,7 +61,7 @@ The e-book is available via all major retailers.
 <td style=" padding: 0px;">  Publication Date: </td> <td style=" padding: 0px;">23 March 2026 </td>
 </tr>
 <tr>
-<td style=" padding: 0px;">  RRP: </td> <td style=" padding: 0px;"> AUD $27.99 incl. GST </td>
+<td style=" padding: 0px;">  RRP: </td> <td style=" padding: 0px;"> AUD $29.99 incl. GST </td>
 </tr>
 <tr>
 <td style=" padding: 0px;">  Distribution: </td> <td style=" padding: 0px;"> IngramSpark </td>
