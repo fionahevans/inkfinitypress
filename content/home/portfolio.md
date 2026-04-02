@@ -39,15 +39,24 @@ traditional custodians of this country.
 
 The e-book is available via all major retailers. 
 
+<b>E-book information:</b>
+<table style="text-indent: 1cm; padding: 0px;">
+<tr>
+<td style=" padding: 0px;">  ISBN: </td> <td style=" padding: 0px;"><b> 978-1-7644622-1-1 </b></td>
+</tr>
+<td style=" padding: 0px;">  Publication Date: </td> <td style=" padding: 0px;">23 December 2025 </td>
+</tr>
+<tr>
+<td style=" padding: 0px;">  RRP: </td> <td style=" padding: 0px;"> AUD $11.99 incl. GST </td>
+</tr>
+<tr>
+<td style=" padding: 0px;">  Distribution: </td> <td style=" padding: 0px;"> Draft2Digital </td>
+</tr>
+</table>
+
 
 <b>Paperback information:</b>
 <table style="text-indent: 1cm; padding: 0px;">
-<tr>
-<td style=" padding: 0px;"> Title: </td> <td style=" padding: 0px;"> The Track </td>
-</tr>
-<tr>
-<td style=" padding: 0px;">  Author: </td> <td style=" padding: 0px;"> Fiona H Evans </td>
-</tr>
 <tr>
 <td style=" padding: 0px;">  ISBN: </td> <td style=" padding: 0px;"><b> 978-1-7644622-0-4 </b></td>
 </tr>
