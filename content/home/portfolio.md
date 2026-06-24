@@ -37,7 +37,7 @@ fauna, the diverse characters who live in and visit the area, and the
 language, culture and history of the <i>Noongar</i> people who are the 
 traditional custodians of this country.
 
-The e-book is available via all major retailers. 
+
 
 <b>E-book information:</b>
 <table style="text-indent: 1cm; padding: 0px;">

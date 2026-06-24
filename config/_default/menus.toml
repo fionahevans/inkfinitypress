@@ -43,6 +43,11 @@
   name = "Authors"
   url = "#authors"
   weight = 50
+  
+[[main]]
+  name = "Shop"
+  url = "#shop"
+  weight = 55
 
 [[main]]
   name = "Contact"
