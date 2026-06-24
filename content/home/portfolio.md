@@ -12,12 +12,18 @@ subtitle = ""
 
 ## The Track
 
+<!--
 <table>
 <tr>
-<td> <img src = "cover.jpg"
-     alt = "Cover of The Track by Fiona H Evans">
+<td> 
+
+
 </td>
 <td>
+-->
+
+<img src = "cover.jpg"
+     alt = "Cover of The Track by Fiona H Evans" width="200">
 
 <i>What would you do if your perfect life collapsed?</i>
 
@@ -86,6 +92,8 @@ The audiobook is being recorded and will be available soon!
 
 
 
-
+<!--
 </td>
+</tr>
 </table>
+-->
